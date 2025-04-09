@@ -1,0 +1,1 @@
+Este repositorio sirve para crear un aplicativo en py para consultas
